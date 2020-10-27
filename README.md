@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>style="text-align:center;">WHAT IS LOREM IPSUM?</h1>
+<h1>WHAT IS LOREM IPSUM?</h1>
   
 <p><i style="color:Blue;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nibh eros, bibendum in lacinia id, mollis sed mi. Donec et porta quam, euismod tempor est. Vivamus et magna erat. Donec gravida odio vitae ante faucibus, sed congue neque faucibus. Vivamus efficitur semper risus, vel porta augue viverra eget. In vehicula lectus sed leo fermentum, nec egestas orci posuere. Pellentesque eleifend rhoncus nisl, nec ultricies lacus maximus sit amet. In mollis vestibulum eleifend. Vivamus ullamcorper nulla nisi, in tristique urna vestibulum fermentum.</i></p>
 

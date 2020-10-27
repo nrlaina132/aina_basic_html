@@ -1,4 +1,7 @@
 # aina_basic_html
+<!DOCTYPE html>
+<html>
+<body>
 <h1>WHAT IS LOREM IPSUM?</h1>
 <i style="color:blue;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nibh eros, bibendum in lacinia id, mollis sed mi. Donec et porta quam, euismod tempor est. Vivamus et magna erat. Donec gravida odio vitae ante faucibus, sed congue neque faucibus. Vivamus efficitur semper risus, vel porta augue viverra eget. In vehicula lectus sed leo fermentum, nec egestas orci posuere. Pellentesque eleifend rhoncus nisl, nec ultricies lacus maximus sit amet. In mollis vestibulum eleifend. Vivamus ullamcorper nulla nisi, in tristique urna vestibulum fermentum. Curabitur blandit sem in ligula mollis, ac ornare sem tristique. Ut at libero tortor. Ut quis lorem et lorem gravida egestas ac ullamcorper metus. Morbi semper iaculis felis at placerat.</i>
 <br>
